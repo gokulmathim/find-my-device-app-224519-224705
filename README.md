@@ -1,1 +1,3 @@
-# find-my-device-app-224519-224705
+# Project Repository
+
+This is the initial README file for the project.
